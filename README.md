@@ -6,6 +6,6 @@
 Задание 1: решить задачу про 8 ферзей с помощью алгоритма имитации отжига
 
 ![Image alt](https://github.com/mintford/lab5/blob/master/lab_5/Screenshots/лаб%205(1).PNG)
-![Image alt]()
+![Image alt](https://github.com/mintford/lab5/blob/master/lab_5/Screenshots/лаб%205(2).PNG)
 
 В итоге проведенной лабораторной работы была создана программа которая решает задачу про 8 ферзей алгоритмом имитации отжига. Для построения графика решения была использована библиотека matplotlib, а для визуализации решения - pygame.
